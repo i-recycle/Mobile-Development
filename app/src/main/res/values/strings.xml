@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">3R Waste</string>
+    <string name="title_home">3R Waste</string>
+    <string name="title_dashboard">3R Waste</string>
+    <string name="title_notifications">3R Waste</string>
+    <string name="heading_text">Olah Sampah Lebih Baik</string>
+    <string name="total_scanned_text">You’ve scanned 3 out of 12 classes. Keep it up!</string>
+    <string name="item_scanned">Item Scanned</string>
+    <string name="biological">Biological</string>
+    <string name="item_count">10 items</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="type_name">Type Waste</string>
+    <string name="dummy_description">Biological waste is waste that consists mainly of organic materials. This includes green waste, food waste as well as paper waste, and even biodegradable plastics.</string>
+    <string name="submit">Submit</string>
+    <string name="percent">%1$s %%</string>
+    <string name="history">History</string>
+</resources>
