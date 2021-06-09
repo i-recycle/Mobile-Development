@@ -32,8 +32,6 @@ In this project we use a dataset from Kaggle which contains images of garbage di
 
 Resource: https://www.kaggle.com/mostafaabla/garbage-classification
 
-## Model Creation Flow
-
 ## Acknowledgement
 
 <p align="center">
